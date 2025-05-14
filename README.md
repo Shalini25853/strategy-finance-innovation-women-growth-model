@@ -1,10 +1,10 @@
-# 👩‍💼 Innovation Women Platform – Strategy & Financial Growth Model
+# Innovation Women Platform – Strategy & Financial Growth Model
 
 This project presents a dual-strategy business model and profitability simulation for **Innovation Women**, a platform that promotes visibility for women speakers. It combines **financial modeling**, **user retention analytics**, and **growth projections** to improve platform engagement and revenue generation.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To enhance user experience, increase profitability, and drive retention by:
 - Implementing a **personalized event-matching algorithm**
@@ -13,15 +13,15 @@ To enhance user experience, increase profitability, and drive retention by:
 
 ---
 
-## 💼 Strategic Solutions Proposed
+##  Strategic Solutions Proposed
 
-### 📌 Strategy 1: Matching Algorithm (Conceptual)
+###  Strategy 1: Matching Algorithm (Conceptual)
 - Uses NLP to recommend speakers for events based on:
   - Industry overlap
   - Historical speaking topics
   - Engagement profiles
 
-### 💰 Strategy 2: Bundled Subscription Model
+### Strategy 2: Bundled Subscription Model
 - $19.99/month (individual) → $99/6-month bundle
 - Includes features like:
   - Personalized onboarding
@@ -30,7 +30,7 @@ To enhance user experience, increase profitability, and drive retention by:
 
 ---
 
-## 📊 Financial Simulation Outcomes
+## Financial Simulation Outcomes
 
 - **95% retention** projected with bundled strategy
 - Break-even at just **50 users**
@@ -41,7 +41,7 @@ To enhance user experience, increase profitability, and drive retention by:
 
 ---
 
-## 🧠 Tools & Skills Used
+##  Tools & Skills Used
 
 - Python (for simulation logic)
 - Excel (for cost modeling and retention curves)
@@ -50,17 +50,17 @@ To enhance user experience, increase profitability, and drive retention by:
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 - `Notebook_1_Business_Challenge_III_Team_4.ipynb` – Financial simulation and scenario modeling
 - `Final Report.pdf` – Strategy paper with analysis and projections
 - `Innovation Women Presentation.pdf` – Executive pitch deck
 
-> 📌 **Note**: Datasets used in this project are proprietary and confidential. They have been excluded in compliance with non-disclosure agreements.
+> **Note**: Datasets used in this project are proprietary and confidential. They have been excluded in compliance with non-disclosure agreements.
 
 ---
 
-## 📌 Business Value
+## Business Value
 
 This project demonstrates how lean strategy + data modeling can:
 - Support early-stage SaaS platform growth
@@ -69,14 +69,14 @@ This project demonstrates how lean strategy + data modeling can:
 
 ---
 
-## 🏷️ Tags
+##  Tags
 
 `#financial-modeling` `#strategy` `#retention` `#growth-hacking`  
 `#python` `#business-analysis` `#user-engagement` `#subscription-model`
 
 ---
 
-## ✍️ Author
+## Author
 
 **Shalini James Paulraj**  
 Graduate Student – Business Analytics & International Business  
